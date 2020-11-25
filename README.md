@@ -59,6 +59,9 @@ These datasets can be found in the `tests/data` folder.
 This library is also compatible with [Google Authenticator](https://github.com/google/google-authenticator),
 and includes additional methods to allow you to work with Google Authenticator.
 
+### React Native
+  In this fork of the official project we are going to modify the library so it can work with React Native applications. Changes will be made in the react-native branch
+
 ## Features
 
 - Typescript support
